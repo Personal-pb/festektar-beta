@@ -1,0 +1,96 @@
+body {
+    color: white;
+}
+.kiszerelesek {
+    border: 2px solid white;
+    padding: 0.9rem;
+    cursor: pointer;
+    color: white;
+}
+#price {
+    margin-left: 0.5rem;
+    color: white;
+}
+.price {
+    color: white;
+    margin-top: 2rem;
+}
+.price {
+    font-size: 20px;
+}
+#price-text {
+    font-size: 25px;
+}
+h2 {
+    margin-bottom: 4rem;
+}
+#img1 {
+    margin-left: 2rem;
+}
+#img1:hover, #img2:hover, #img3:hover {
+    border: 2px solid #0ef6cc;
+}
+#first-color {
+    border: 3px solid white;
+    border-radius: 5rem;
+    padding: 10px;
+    background-color: red;
+}
+.select-btn {
+    margin-top: 40px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-bottom: 2rem;
+    
+}
+.select-btn:hover {
+    border: 2px solid #0ef6cc;
+}
+.white {
+    background-color: white;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.grey {
+    background-color: grey;
+}
+.black {
+    background-color: black;
+}
+.pink {
+    background-color: pink;
+}
+.yellow {
+    background-color: yellow;
+}
+@media screen and (max-width: 900px) {
+    .product-image {
+        background-color: white;
+    margin-top: 25px;
+    height: 40%;
+    text-align: center;
+    
+    }
+    .product-title { 
+        margin-top: 5px;
+    }
+    .kep {
+        border-radius: 2rem;
+        scale: 70%;
+    }
+}
+.content {
+    padding: 1rem;
+}
+.kep {
+    border-radius: 2rem;
+}
+.navbar-toggler {
+    background-color: #0ef6cc;
+}
