@@ -7,7 +7,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 13%;
+    width: 100px;
+    height: 100px;
 }
 .main-box {
     background-color: #1b2223;
@@ -62,8 +63,8 @@ body {
 @media screen and (max-width: 980px) {
     .logo {
         float: right;
-        width: 35%;
-        margin-bottom: 15px;
+        width: 30%;
+        margin-bottom: 5px;
         margin-right: 0;
     }
     .card {

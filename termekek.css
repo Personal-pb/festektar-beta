@@ -23,3 +23,13 @@ h5 {
         font-weight: bold;
     }
 }
+
+
+
+
+@media screen and (min-width: 1199px) and (max-width: 1399px) {
+    .card-text {
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
