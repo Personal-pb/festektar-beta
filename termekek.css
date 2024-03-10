@@ -1,3 +1,25 @@
 .copyright-tag {
     margin-top: 3.2rem;
 }
+.section-line {
+    margin-top: 4rem;
+}
+.product-img {
+    scale: 80%;
+}
+h5 {
+    font-size: 25px;
+}
+.card-text {
+    text-align: left;
+    font-size: 19px;
+}
+@media screen and (min-width: 950px) {
+    h5 {
+        font-size: 22px;
+    }
+    .card-text {
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
